@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/redux/static/css/main.b02039b2.css",
-    "main.js": "/redux/static/js/main.bc3ffed5.js",
+    "main.js": "/redux/static/js/main.e4a926f9.js",
     "static/media/yoda.jpg": "/redux/static/media/yoda.973beacdf4418e8018a7.jpg",
     "static/media/anakin.jpg": "/redux/static/media/anakin.271d35b8df84c4cc5dcb.jpg",
     "static/media/yoda-post.jpg": "/redux/static/media/yoda-post.2e60a0a83aa941498c32.jpg",
@@ -10,10 +10,10 @@
     "static/media/960x0.jpg": "/redux/static/media/960x0.96a88142898d54bf25ac.jpg",
     "index.html": "/redux/index.html",
     "main.b02039b2.css.map": "/redux/static/css/main.b02039b2.css.map",
-    "main.bc3ffed5.js.map": "/redux/static/js/main.bc3ffed5.js.map"
+    "main.e4a926f9.js.map": "/redux/static/js/main.e4a926f9.js.map"
   },
   "entrypoints": [
     "static/css/main.b02039b2.css",
-    "static/js/main.bc3ffed5.js"
+    "static/js/main.e4a926f9.js"
   ]
 }
