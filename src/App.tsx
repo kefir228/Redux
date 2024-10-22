@@ -3,20 +3,20 @@ import './App.css';
 import { Menu } from './components/Menu/Menu'
 import { Public } from './components/Public/Public'
 import { Add } from './components/createForm/Add'
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <Menu />
         <Routes>
-          <Route path='/redux' element={<Public />} />
+          <Route path='/' element={<Public />} />
           <Route path='/add' element={<Add />} />
         </Routes>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
